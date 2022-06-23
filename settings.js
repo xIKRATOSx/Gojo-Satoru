@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝒙𝑰𝑲𝑹𝑨𝑻𝑶𝑺𝒙
+//𝙶𝚒𝚝𝚑𝚞𝚋 𝚕𝚒𝚗𝚔: github.com/xIKRATOSx/Gojo-Satoru 
 //
 //════════════════════════════//
 
@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.owner = ['923470027813']
+global.premium = ['923470027813','68673025589','923444192629','923191089077']
+global.ownernomer = '923470027813'
+global.ownername = '🇵🇰Ahmad Ali🇵🇰'
+global.botname = 'Ikratos-Gojo'
+global.footer = '🦂©IkratosInc.'
+global.ig = 'https://github.com/xIKRATOSx'
+global.region = 'Pakistan, Punjab'
+global.sc = 'https://github.com/xIKRATOSx/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'Ahmad"s robot (wa.me/+923470027813) 🤖'
+global.author = '🇵🇰Ahmad Ali🇵🇰 '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','/','#','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -48,7 +48,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 2000,
     monayawal: 1000
 }
    global.rpg = {
