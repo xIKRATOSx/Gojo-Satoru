@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/Ikratos-goko-07-02" alt="nz" width="350"/>
+<img src="https://telegra.ph/Ikratos-goko-07-02-2" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
